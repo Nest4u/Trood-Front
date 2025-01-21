@@ -21,7 +21,7 @@ This is a simple React application for managing projects. Users can create, edit
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/project-management-app.git
+   git clone [https://github.com/your-repo/project-management-app.git](https://github.com/Nest4u/Trood-Front.git)
    cd project-management-app
    ```
 
@@ -30,23 +30,13 @@ This is a simple React application for managing projects. Users can create, edit
    npm install
    ```
 
-3. Configure the `.env` file:
-   - Create a `.env` file in the root directory.
-   - Add the backend URL:
-     ```env
-     REACT_APP_API_URL=http://localhost:8080
-     ```
 
-4. Start the application:
+3. Start the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
-5. Open the app in your browser at:
-   ```
-   http://localhost:3000
-   ```
 
-### Backend
-- Set up the backend and ensure it matches the `REACT_APP_API_URL` in `.env`. 
+
+
 
