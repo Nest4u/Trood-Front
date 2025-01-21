@@ -21,7 +21,7 @@ This is a simple React application for managing projects. Users can create, edit
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo/project-management-app.git](https://github.com/Nest4u/Trood-Front.git)
+   git clone https://github.com/Nest4u/Trood-Front.git
    cd project-management-app
    ```
 
